@@ -1,9 +1,10 @@
 [submodule "01. ERC20/lib/openzeppelin-contracts"]
 	path = 01. ERC20/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
-[submodule "02. NFTs/lib/openzeppelin-contracts"]
-	path = 02. NFTs/lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 [submodule "02. NFTs/lib/foundry-devops"]
 	path = 02. NFTs/lib/foundry-devops
 	url = https://github.com/ChainAccelOrg/foundry-devops
+
+[submodule "02. NFTs/lib/openzeppelin-contracts"]
+	path = 02. NFTs/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
